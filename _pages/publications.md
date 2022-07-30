@@ -17,9 +17,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
----
-*title down?*
-
 {% for post in site.proceedings reversed %}
   {% include archive-single.html %}
 {% endfor %}
