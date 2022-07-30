@@ -11,9 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Mechanical Engineering, *2019*
+  * University of Chile. Santiago, Chile. 
+* M.Sc. in Mechanical Engineering, *2021*
+  * University of Chile. Santiago, Chile.
+  * Thesis: Analytic and parametric study of high-temperature packed-bed TES systems using Copper Slags as filler material.
+* Ph.D student, *2021 - to date*
+  * Pontificia Universidad Católica de Chile. Santiago, Chile.   
+
+Research projects
+======
+* CORFO 17COTE-83040, *2018 - 2019*
+  * Project name: Desarrollo de un prototipo físico de nuevo motor a combustión interna modelo MM22.
+  * Role: Design developer.
+* FONDECYT 1191705, *2019 - 2022*
+  * Project name: High-Temperature thermal storage for CSP power plants using packed bed of rocks: heat transfer analysis and experimental validation.
+  * Role: Researcher.
+* REDES 190164, *2020 - to date*
+  * Project name: Development of simulation strategies for assessing the potential for solar heat in industrial processes.
+  * Role: Researcher.
+* IEA SHC Task 64 / SolarPACES Task IV - Subtask C, *2020 - to date*
+  * Project name: Assessing the differences of simulation tools for different case studies of solar thermal systems.
+  * Role: Researcher.
 
 Work experience
 ======
