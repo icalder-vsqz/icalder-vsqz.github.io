@@ -17,8 +17,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-{% include base_path %}
-
 *Conference proceedings*
 ====
 {% for post in site.proceedings reversed %}
