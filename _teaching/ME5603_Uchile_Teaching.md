@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ME5603_Uchile_Teaching
 venue: "Universidad de Chile, Departamento de Ingeniería Mecánica"
-date: 2022
+date: 
 location: "Santiago, Chile"
 ---
 
