@@ -15,3 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+{% for post in site.proceedings reversed %}
+  {% include archive-single.html %}
+{% endfor %}
