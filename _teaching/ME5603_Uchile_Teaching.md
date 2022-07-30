@@ -1,5 +1,5 @@
 ---
-title: "ME5603"
+title: "ME5603 - Energy Storage"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ME5603_Uchile_Teaching
@@ -8,8 +8,9 @@ date: 2022-03-11
 location: "Santiago, Chile"
 ---
 
-ME5603 - Energy Storage
-======
+*Semesters in which it was taught*:
+* Fall 2022.
+* Spring 2022 (present).
 
 *Role*:
 * Designing and teaching classes.
