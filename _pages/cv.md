@@ -71,6 +71,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* Chilean National Agency for Research and Development (ANID) - Ministry of Science and Technology, Chile
+  * Master's Degree Scholarship 2020, March 2020 
+* Chilean National Agency for Research and Development (ANID) - Ministry of Science and Technology, Chile
+  * Ph.D Degree Scholarship 2021, February 2021 
+* Colegio de Ingenieros de Chile A.G. (Chilean Society of Engineers)
+  * Academic Achievement Award: Best Mechanical Engineering Professional Graduate 2021, April 2022
+* Universidad de Chile, Faculty of Physical and Mathematical Sciences
+  * Master's Thesis Award: Outstanding Doctoral and Master's Theses 2021, July 2022 
