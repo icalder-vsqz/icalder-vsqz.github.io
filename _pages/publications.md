@@ -11,15 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-*Journal articles*
+*Journal articles and conference proceedings*
 ======
 <ul>{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}</ul>
-
-*Conference proceedings*
-======
-<ul>{% for post in site.proceedings reversed %}
   {% include archive-single.html %}
 {% endfor %}</ul>
 
