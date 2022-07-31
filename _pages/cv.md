@@ -34,39 +34,37 @@ Research projects
   * Project name: Assessing the differences of simulation tools for different case studies of solar thermal systems.
   * Role: Researcher.
 
-Work experience
+Professional Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Research Job Internship
+  * Instituto de Investigación y Control (IDIC)
+  * Duties included: Assistant at Mechanical Testing Department.
+* Summer 2018: Engineering Job Internship
+  * ENERCOM S.A.
+  * Duties included: Assistant in Engineering Department.
+* Summer 2019: Engineering Job Internship
+  * CINETICA Ingeniería Spa.
+  * Duties included: Project Engineering and CFD analysis.
+* Spring 2019 to Fall 2021: Laboratory assistant
+  * Fluid Dynamics Laboratory, Universidad de Chile.
+  * Duties included: Equipment maintenance and lectures to high school students.
+* Fall 2021 to date: Research Engineering
+  * CIMAS Ingeniería Ltda.
+  * Duties included: Development of Engineering tools in Python. 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Thermodynamic analysis.
+* Numerical Methods.
+* Programming and Software: Python, Matlab, Latex, Inventor, TRNSYS, LIGGGTHS, ANSYS.
+* Bilingual: Spanish (native), English.
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+    
 Teaching
 ======
   <ul>{% for post in site.teaching %}
